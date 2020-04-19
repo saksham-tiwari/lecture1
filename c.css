@@ -3,14 +3,13 @@ body
 	background-color: #ab9d9d;
 	margin: 100px;
 }
-ul , ol
+ol
 {
 	background-color: black;
 	color: white;
 	font-weight: bold;
 	font-size: 42px;
-	width: 100px;
-	height: 100px;
+	width: 60%;
 	margin-left: 150px;
 	padding: 70px;
 }
