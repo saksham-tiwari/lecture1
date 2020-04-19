@@ -1,5 +1,6 @@
 a::after
 {
+	margin-left: 10px;
 	content: "\21d0 Click Here!!";
 	font-size: 10px;
 	color: white;
