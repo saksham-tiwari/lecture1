@@ -6,6 +6,10 @@ a::after
 	color: white;
 	font-weight: bold;
 }
+a:hover
+{
+	color:red;
+}
 body
 {
 	border: 20px groove white;
