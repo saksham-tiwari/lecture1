@@ -1,3 +1,10 @@
+a::after
+{
+	content: "\21d0 Click Here!!";
+	font-size: 10px;
+	color: white;
+	font-weight: bold;
+}
 body
 {
 	border: 20px ridge white;
