@@ -9,8 +9,8 @@ ol
 	color: white;
 	font-weight: bold;
 	font-size: 42px;
-	width: 400pm;
-	width: 400pm;
+	width: 400px;
+	height: 300px;
 	margin-left: 150px;
 	padding: 70px;
 }
@@ -49,6 +49,7 @@ table
 }
 form
 {
+	margin-top: 50px;
 	background-color: #a68db8;
 	width: 175px;
 	height: 50px; 
